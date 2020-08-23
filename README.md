@@ -24,6 +24,7 @@
 - https://kb.objectrocket.com/mongo-db/how-to-insert-mongodb-documents-from-json-using-the-golang-driver-457
 - https://blog.ruanbekker.com/blog/2019/04/17/mongodb-examples-with-golang/
 - https://linuxhint.com/setup_mongodb_server_docker/
+- https://www.mongodb.com/blog/post/quick-start-golang--mongodb--how-to-update-documents
 - https://sourcegraph.com/github.com/mongodb/mongo-go-driver@84ccfda181e11caa385171ec1cc7e89a5eb439ea/-/blob/mongo/crud_examples_test.go
 
 ### mongo rest
