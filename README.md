@@ -36,3 +36,12 @@
 - https://github.com/0x1a0b/go-microservices
 - https://github.com/Fallenstedt/gin-mongodb-starter
 - https://www.agiratech.com/building-restful-api-service-golang-using-gin-gonic
+
+
+## other 
+- https://github.com/cavdy-play/go_mongo/blob/master/controllers/todo.go
+- https://medium.com/@cavdy/creating-restful-api-using-golang-and-mongodb-7f6abd4394eb
+- https://github.com/jakecoffman/gorest/blob/master/example/cmd/serve/main.go
+- https://medium.com/@cavdy/creating-restful-api-using-golang-and-mongodb-7f6abd4394eb
+- https://github.com/cavdy-play/go_mongo/blob/master/controllers/todo.go
+- https://github.com/jakecoffman/gorest/blob/master/example/cmd/serve/main.go
