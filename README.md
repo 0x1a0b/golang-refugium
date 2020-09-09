@@ -53,3 +53,5 @@
 - https://github.com/0x1a0b/go-bank-transfer/blob/master/usecase/transfer.go
 - https://github.com/jakecoffman/gorest/blob/master/controller.go
 - https://hakaselogs.me/2018-04-20/building-a-web-app-with-go-gin-and-react/
+- https://github.com/gobeam/mongo-go-pagination
+- https://github.com/coderwuhe/golang-gin-restfulAPI-example-app/blob/master/routers/api/v1/user/models.go
