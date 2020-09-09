@@ -45,3 +45,11 @@
 - https://medium.com/@cavdy/creating-restful-api-using-golang-and-mongodb-7f6abd4394eb
 - https://github.com/cavdy-play/go_mongo/blob/master/controllers/todo.go
 - https://github.com/jakecoffman/gorest/blob/master/example/cmd/serve/main.go
+
+## hmm
+
+- https://github.com/glepnir/leaseapp/blob/master/data/db.go
+- https://github.com/0x1a0b/clean-go/blob/master/providers/mongodb/greetings.go
+- https://github.com/0x1a0b/go-bank-transfer/blob/master/usecase/transfer.go
+- https://github.com/jakecoffman/gorest/blob/master/controller.go
+- https://hakaselogs.me/2018-04-20/building-a-web-app-with-go-gin-and-react/
