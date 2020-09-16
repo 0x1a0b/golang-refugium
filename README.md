@@ -55,3 +55,7 @@
 - https://hakaselogs.me/2018-04-20/building-a-web-app-with-go-gin-and-react/
 - https://github.com/gobeam/mongo-go-pagination
 - https://github.com/coderwuhe/golang-gin-restfulAPI-example-app/blob/master/routers/api/v1/user/models.go
+
+
+- https://dev.to/tesh254/create-api-with-gin-in-golang-part-3-3fd1
+- https://gadelkareem.com/2018/02/11/workaround-slow-pagination-using-skip-mongodb/
