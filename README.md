@@ -59,3 +59,8 @@
 
 - https://dev.to/tesh254/create-api-with-gin-in-golang-part-3-3fd1
 - https://gadelkareem.com/2018/02/11/workaround-slow-pagination-using-skip-mongodb/
+
+- https://github.com/marmelab/react-admin
+- https://github.com/kei178/go-mongo-api
+- https://morioh.com/p/82b11315afa1
+- https://www.valentinog.com/blog/redux/
