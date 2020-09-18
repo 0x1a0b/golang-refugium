@@ -64,3 +64,5 @@
 - https://github.com/kei178/go-mongo-api
 - https://morioh.com/p/82b11315afa1
 - https://www.valentinog.com/blog/redux/
+
+- https://medium.com/easyread/today-i-learn-text-search-on-mongodb-6b87cd8497c9
