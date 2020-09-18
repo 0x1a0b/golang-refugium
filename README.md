@@ -66,3 +66,4 @@
 - https://www.valentinog.com/blog/redux/
 
 - https://medium.com/easyread/today-i-learn-text-search-on-mongodb-6b87cd8497c9
+- https://medium.com/dev-howto/how-to-use-go-with-mongodb-using-official-mongodb-go-driver-76c1628dae1e
